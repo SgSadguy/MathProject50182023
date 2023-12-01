@@ -1,0 +1,25 @@
+Title: "Trigonometry in Architecture: Designing a Sustainable Sunshade"
+
+Objective: The objective of this project is to apply trigonometry principles to design an efficient sunshade structure that provides shade during specific times of the day.
+
+Materials:
+1. Graph paper or computer drawing software
+2. Ruler or measuring tape
+3. Protractor
+4. Calculator
+
+Procedure:
+1. Choose a building or outdoor area where shading is needed during specific times of the day.
+2. Measure the dimensions of the building or area, including the height, width, and length.
+3. Research and determine the optimal times of the day when shading is required. For example, it could be when the sun is at its peak intensity or when specific rooms need protection from direct sunlight.
+4. Calculate the angles of the sun's rays during those specific times using online calculators or trigonometric formulas.
+5. Design a sunshade structure using trigonometry principles to determine the optimal size, shape, and angle for the shade.
+6. Use trigonometric functions such as sine, cosine, and tangent to calculate the lengths of the sunshade structure's components, including the height, width, and support beams.
+7. Create a scale drawing or digital representation of the sunshade structure, considering its positioning and alignment to block the sun's rays effectively.
+8. Calculate the area covered by the sunshade structure and determine the percentage of shade provided during the desired time intervals.
+9. Analyze and compare different design variations by adjusting the angles and dimensions of the sunshade structure.
+10. Consider the materials and construction techniques required to build the sunshade structure, taking into account factors such as durability, cost, and sustainability.
+11. Present your findings, including the design plans, calculations, and analysis, explaining how trigonometry was used to optimize the sunshade structure for shading purposes.
+12. Discuss the importance of trigonometry in architectural design and its potential for creating sustainable solutions that enhance energy efficiency and comfort in buildings.
+
+Note: Ensure that your design plans comply with local building codes and regulations. Seek guidance from a teacher or professional to ensure the safety and feasibility of your sunshade structure.

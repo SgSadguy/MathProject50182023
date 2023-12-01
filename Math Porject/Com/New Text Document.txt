@@ -1,0 +1,13 @@
+https://en.wikipedia.org/wiki/Box_blur
+https://en.wikipedia.org/wiki/Gaussian_blur
+https://en.wikipedia.org/wiki/Median_filter
+https://en.wikipedia.org/wiki/Kernel_(image_processing)
+https://guopai.github.io/ml-blog19.html
+https://matlabstock.blogspot.com/2020/07/matlab-matrix-2-element-wise.html
+https://homepages.inf.ed.ac.uk/rbf/HIPR2/median.htm
+
+
+ตัวแปรต้น ภาพเบลอลักษณะต่างๆ
+ตัวแปรตาม ภาพที่ลดการเบลอแล้ว
+ตัวแปรควบคุม ภาพลักษณะเดียวกัน โปรแกรมที่นำมาคำนวณ
+
